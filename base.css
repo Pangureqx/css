@@ -8,7 +8,7 @@
 
 :root {
     --version: "1-129"; /* 0-00 */
-    --currentVersion: "Magapaka v" var(--version);
+    --currentVersion: "WizardUI v" var(--version);
     /* MAIN VARIABLES */
     --AppName: "卐 t.me/Pangureq";
     --Watermark: "亗   パングレック 亗 卐";
